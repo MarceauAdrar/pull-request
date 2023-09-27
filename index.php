@@ -1,6 +1,6 @@
 <?php 
 
 function toto() {
-    echo 'truc';
+    echo 'bidule';
 }
 ?>
