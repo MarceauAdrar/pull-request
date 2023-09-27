@@ -1,1 +1,6 @@
-<?php echo 'bidule'; ?>
+<?php 
+
+function toto() {
+    echo 'bidule';
+}
+?>
